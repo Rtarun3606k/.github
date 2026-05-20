@@ -1,0 +1,7 @@
+{
+  "name": "TakaTime Stats",
+  "description": "Automatically update your GitHub profile README with TakaTime coding statistics.",
+  "iconName": "activity",
+  "categories": ["Automation", "Continuous integration"],
+  "filePatterns": ["README.md"]
+}
