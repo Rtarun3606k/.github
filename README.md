@@ -10,40 +10,17 @@
 
 <br><br>
 
-
   <a href="https://github.com/Rtarun3606k/TakaTime/stargazers">
-
-
     <img src="https://img.shields.io/github/stars/Rtarun3606k/TakaTime?style=for-the-badge&logo=star&color=ffea00" alt="GitHub Stars">
-
-
   </a>
-
-
 <a href="https://github.com/Rtarun3606k/TakaTime">
-
-
   <img src="https://komarev.com/ghpvc/?username=rtarun3606k&repo=TakaTime&label=Total+Visits&style=for-the-badge" alt="Total Visits"/>
-
-
 </a>
-
-
   <a href="https://github.com/Rtarun3606k/TakaTime/blob/main/LICENSE">
-
-
     <img src="https://img.shields.io/github/license/Rtarun3606k/TakaTime?style=for-the-badge&color=blue" alt="License">
-
-
   </a>
-
-
 <a href="https://github.com/rtarun3606k/Takatime/releases">
-
-
   <img src="https://img.shields.io/github/downloads/rtarun3606k/Takatime/total?style=for-the-badge&color=blue&logo=github" alt="total downloads">
-
-
 </a>
 
   <br>
@@ -76,12 +53,12 @@
 <h2 align="center">TakaTime Weekly Report</h2>
 
 <p align="center">
-  <img src="./public/taka-time.png" width="100%" alt="Time Stats" /><br/>
-  <img src="./public/taka-languages30.png" width="400" alt="Languages" />
-  <img src="./public/taka-projects30.png" width="400" alt="Projects" /><br/>
-  <img src="./public/taka-languages.png" width="400" alt="Languages" />
-  <img src="./public/taka-projects.png" width="400" alt="Projects" /><br/>
-  <img src="./public/taka-tech.png" width="100%" alt="Tech Stack" />
+  <img src="https://github.com/Rtarun3606k/TakaTime/blob/main/public/taka-time.png" width="100%" alt="Time Stats" /><br/>
+  <img src="https://github.com/Rtarun3606k/TakaTime/blob/main/public/taka-languages30.png" width="400" alt="Languages" />
+  <img src="https://github.com/Rtarun3606k/TakaTime/blob/main/public/taka-projects30.png" width="400" alt="Projects" /><br/>
+  <img src="https://github.com/Rtarun3606k/TakaTime/blob/main/public/taka-languages.png" width="400" alt="Languages" />
+  <img src="https://github.com/Rtarun3606k/TakaTime/blob/main/public/taka-projects.png" width="400" alt="Projects" /><br/>
+  <img src="https://github.com/Rtarun3606k/TakaTime/blob/main/public/taka-tech.png" width="100%" alt="Tech Stack" />
 </p>
 
 <p align="center"><em>Generated automatically by <a href="https://github.com/Rtarun3606k/TakaTime">TakaTime</a></em></p>
